@@ -1,0 +1,16 @@
+{
+  "name": "periodic-layout",
+  "version": "0.0.0",
+  "description": "Generate a periodic table layout from an array of items.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MadeByMike/periodic-layout"
+  },
+  "author": "Mike Riethmuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadeByMike/periodic-layout/issues"
+  },
+  "homepage": "https://github.com/MadeByMike/periodic-layout"
+}
